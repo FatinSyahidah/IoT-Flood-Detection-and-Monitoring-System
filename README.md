@@ -84,21 +84,8 @@ The application layer provides the user interface and alert system.
 6. Telegram Bot API sends alerts when water levels exceed danger thresholds.
 
 ## **Project Structure**
-IoT-Flood-Detection-and-Monitoring-System
-│
-├── client
-│   ├── src
-│   ├── public
-│   └── package.json
-│
-├── prediction-model
-│   ├── server.py
-│   └── SgKuantan.csv
-│
-├── iot-device
-│   └── ESP32_Publisher.ino
-│
-└── README.md
+
+<img width="572" height="580" alt="image" src="https://github.com/user-attachments/assets/09e526b3-cfab-4f81-8eb9-ad03edaf274c" />
 
 ## **Technologies Used**
 
