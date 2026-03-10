@@ -85,8 +85,35 @@ The application layer provides the user interface and alert system.
 
 ## **Project Structure**
 
-<img width="572" height="580" alt="image" src="https://github.com/user-attachments/assets/09e526b3-cfab-4f81-8eb9-ad03edaf274c" />
+```
+IoT-Flood-Detection-and-Monitoring-System
+│
+├── client
+│   ├── public
+│   ├── src
+│   └── package.json
+│
+├── prediction-model
+│   ├── server.py
+│   └── SgKuantan.csv
+│
+├── iot-device
+│   └── ESP32_Publisher.ino
+│
+├── screenshots
+│   ├── analytics.png
+│   ├── dashboard.png
+│   └── device-map.png
+│
+└── README.md
+```
+### Folder Description
 
+- **client** – React dashboard used to visualize real-time sensor data and prediction results  
+- **prediction-model** – Python-based water level prediction model using NeuralProphet  
+- **iot-device** – NodeMCU ESP32 code for collecting sensor data and sending it via MQTT  
+- **screenshots** – Dashboard and system interface images used in this documentation
+  
 ## **Technologies Used**
 
 **Hardware**
