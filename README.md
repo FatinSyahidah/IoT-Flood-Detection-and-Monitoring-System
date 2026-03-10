@@ -98,7 +98,7 @@ The application layer provides the user interface and alert system.
 5. Telegram notification alert system
 6. Device location monitoring
 
-## **Screenshots**
+## **System Demo**
 
 **Dashboard**
 
