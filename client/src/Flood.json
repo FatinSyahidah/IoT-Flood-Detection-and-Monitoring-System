@@ -1,0 +1,943 @@
+{
+  "dht22": {
+    "-N3FMka_nhjW6qrMBKQE": {
+      "Humidity": "89.0999984741211",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-29 23:11:12.521166",
+      "WaterLevel": "3.89"
+    },
+    "-N3FMs6vKhD-iTRwhSD3": {
+      "Humidity": "89.0",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-29 23:11:43.092794",
+      "WaterLevel": "3.88"
+    },
+    "-N3FMzWMoP45HDi7qpPR": {
+      "Humidity": "89.30000305175781",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:12:13.608442",
+      "WaterLevel": "3.97"
+    },
+    "-N3FN6-3UxMuYZ6IXZ3s": {
+      "Humidity": "88.5",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-29 23:12:44.225226",
+      "WaterLevel": "3.98"
+    },
+    "-N3FNDRayop0o0A_QnaG": {
+      "Humidity": "88.5999984741211",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:13:14.747846",
+      "WaterLevel": "3.86"
+    },
+    "-N3FNKujQZcLaMo1CJOc": {
+      "Humidity": "88.0999984741211",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:13:45.320053",
+      "WaterLevel": "3.84"
+    },
+    "-N3FNSMWNEODiNi0zGjT": {
+      "Humidity": "88.0",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:14:15.868701",
+      "WaterLevel": "3.95"
+    },
+    "-N3FNZpMU5jSEciheoKb": {
+      "Humidity": "88.0",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:14:46.433070",
+      "WaterLevel": "3.92"
+    },
+    "-N3FNgIgpeV9HJCe4nvs": {
+      "Humidity": "87.80000305175781",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:15:16.985854",
+      "WaterLevel": "3.83"
+    },
+    "-N3FNnkH7OL7aN01KlEY": {
+      "Humidity": "88.0",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:15:47.561056",
+      "WaterLevel": "4.01"
+    },
+    "-N3FNvE3SPs_2pJ7ch_h": {
+      "Humidity": "87.80000305175781",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:16:18.121927",
+      "WaterLevel": "3.87"
+    },
+    "-N3FO1fRV5g_V45WETA3": {
+      "Humidity": "87.80000305175781",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:16:48.679066",
+      "WaterLevel": "3.87"
+    },
+    "-N3FO98gdkOujkqwBtEo": {
+      "Humidity": "87.30000305175781",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:17:19.274795",
+      "WaterLevel": "3.87"
+    },
+    "-N3FOGb929Wfi4TC5MvF": {
+      "Humidity": "87.19999694824219",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:17:49.808819",
+      "WaterLevel": "3.82"
+    },
+    "-N3FOO4fN-RfsospHICD": {
+      "Humidity": "87.0999984741211",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:18:20.420427",
+      "WaterLevel": "3.86"
+    },
+    "-N3FOV_wRPI4bq44B2F6": {
+      "Humidity": "87.30000305175781",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-29 23:18:50.943476",
+      "WaterLevel": "2.57"
+    },
+    "-N3FObybnURy-vr5L1Xx": {
+      "Humidity": "87.5999984741211",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-29 23:19:21.468609",
+      "WaterLevel": "3.99"
+    },
+    "-N3FOk2o0sNgg3d7vupQ": {
+      "Humidity": "88.0",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:19:54.567895",
+      "WaterLevel": "3.95"
+    },
+    "-N3FOr_XxetXeOYeDoo5": {
+      "Humidity": "87.9000015258789",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:20:25.284888",
+      "WaterLevel": "3.86"
+    },
+    "-N3FOyzADZ4FcPydUUXA": {
+      "Humidity": "87.30000305175781",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:20:55.680767",
+      "WaterLevel": "3.87"
+    },
+    "-N3FP5SV7qK2B9VBIVsW": {
+      "Humidity": "87.19999694824219",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:21:26.325106",
+      "WaterLevel": "3.98"
+    },
+    "-N3FPCvg_ABwBZZCjEdo": {
+      "Humidity": "87.30000305175781",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:21:56.823757",
+      "WaterLevel": "3.89"
+    },
+    "-N3FPKMtcO9sPdxKuw3E": {
+      "Humidity": "87.30000305175781",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:22:27.351787",
+      "WaterLevel": "3.86"
+    },
+    "-N3FPRpMAaNDuAqDZXOo": {
+      "Humidity": "87.30000305175781",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:22:57.932416",
+      "WaterLevel": "3.94"
+    },
+    "-N3FPZtsaMrn0NlCMucq": {
+      "Humidity": "87.4000015258789",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:23:31.026757",
+      "WaterLevel": "3.87"
+    },
+    "-N3FPgOUZJOaNY_dsejf": {
+      "Humidity": "87.4000015258789",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:24:01.566515",
+      "WaterLevel": "3.88"
+    },
+    "-N3FPnpPfJviKk-7AYWv": {
+      "Humidity": "87.4000015258789",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-29 23:24:32.146345",
+      "WaterLevel": "3.95"
+    },
+    "-N3FPvHoZeUtjjW8_I6D": {
+      "Humidity": "87.5",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-29 23:25:02.690478",
+      "WaterLevel": "3.98"
+    },
+    "-N3FQ1kbZUhZo-4PveAA": {
+      "Humidity": "87.5999984741211",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-29 23:25:33.230909",
+      "WaterLevel": "3.89"
+    },
+    "-N3FQ9BllTGr3YLf7Tqf": {
+      "Humidity": "87.69999694824219",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-29 23:26:03.778295",
+      "WaterLevel": "3.89"
+    },
+    "-N3FQGdy_s5TB2YapMqk": {
+      "Humidity": "87.69999694824219",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-29 23:26:34.323346",
+      "WaterLevel": "3.9"
+    },
+    "-N3FQO83RzpurtOdNilG": {
+      "Humidity": "87.69999694824219",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-29 23:27:04.886776",
+      "WaterLevel": "3.84"
+    },
+    "-N3FQV_GV6DWWoLzybXs": {
+      "Humidity": "87.9000015258789",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-29 23:27:35.443789",
+      "WaterLevel": "4.0"
+    },
+    "-N3FQc1zSu1UMdrWy81u": {
+      "Humidity": "88.0999984741211",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-29 23:28:06.006774",
+      "WaterLevel": "3.87"
+    },
+    "-N3FQjVM93hY9Ckm0doF": {
+      "Humidity": "88.0",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-29 23:28:36.574771",
+      "WaterLevel": "4.01"
+    },
+    "-N3FQqxOXny2_cqmLsRz": {
+      "Humidity": "88.19999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-29 23:29:07.121847",
+      "WaterLevel": "4.0"
+    },
+    "-N3FQyQ3iECB58xWM-vE": {
+      "Humidity": "88.19999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-29 23:29:37.666833",
+      "WaterLevel": "3.94"
+    },
+    "-N3FR4s8QINO_OsnTSYy": {
+      "Humidity": "88.0999984741211",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-29 23:30:08.205381",
+      "WaterLevel": "3.89"
+    },
+    "-N3FRCLGHz61qne39C2D": {
+      "Humidity": "88.0999984741211",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-29 23:30:38.745465",
+      "WaterLevel": "3.9"
+    },
+    "-N3FRJmkRsu9ahUAN6t8": {
+      "Humidity": "88.19999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-29 23:31:09.299409",
+      "WaterLevel": "4.07"
+    },
+    "-N3FRRElN-5Nh7gFhl01": {
+      "Humidity": "88.19999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-29 23:31:39.841609",
+      "WaterLevel": "3.89"
+    },
+    "-N3FRYhm7huU03QwioiP": {
+      "Humidity": "88.19999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-29 23:32:10.414511",
+      "WaterLevel": "3.86"
+    },
+    "-N3FRf9f_YFCBJbsHrUt": {
+      "Humidity": "88.30000305175781",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-29 23:32:40.962498",
+      "WaterLevel": "3.92"
+    },
+    "-N3FRmd5sxNbJDJGibzS": {
+      "Humidity": "88.30000305175781",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-29 23:33:11.536368",
+      "WaterLevel": "3.86"
+    },
+    "-N3FRu4rxJqEMWPNJIbd": {
+      "Humidity": "89.80000305175781",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-29 23:33:42.068188",
+      "WaterLevel": "3.96"
+    },
+    "-N3FS0Yf3fVuDYDTn72C": {
+      "Humidity": "90.0999984741211",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-29 23:34:12.654710",
+      "WaterLevel": "3.97"
+    },
+    "-N3FS80CwDgqyBJaAiXX": {
+      "Humidity": "90.19999694824219",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:34:43.198312",
+      "WaterLevel": "3.94"
+    },
+    "-N3FSFUFGf3WV_Nv5oaG": {
+      "Humidity": "88.19999694824219",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:35:13.797507",
+      "WaterLevel": "3.85"
+    },
+    "-N3FSMwd2xZcXVsd08sq": {
+      "Humidity": "87.80000305175781",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:35:44.320899",
+      "WaterLevel": "3.89"
+    },
+    "-N3FSUOnhpijciDbtJGO": {
+      "Humidity": "88.0",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:36:14.876382",
+      "WaterLevel": "3.97"
+    },
+    "-N3FSaqxPuTUfs2SAVXW": {
+      "Humidity": "86.9000015258789",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:36:45.441627",
+      "WaterLevel": "3.86"
+    },
+    "-N3FSiJlIZl5UvvimTz9": {
+      "Humidity": "86.5",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:37:16.006914",
+      "WaterLevel": "4.25"
+    },
+    "-N3FSpmGQ_JQPqrmczqR": {
+      "Humidity": "86.69999694824219",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:37:46.574509",
+      "WaterLevel": "3.95"
+    },
+    "-N3FSxsCVGubXLaU6NlC": {
+      "Humidity": "86.5",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:38:19.665190",
+      "WaterLevel": "3.82"
+    },
+    "-N3FT4Kalrn_-B7beWCh": {
+      "Humidity": "86.5",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:38:50.244566",
+      "WaterLevel": "3.89"
+    },
+    "-N3FTBm7jUSD3rksIXpj": {
+      "Humidity": "86.5",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:39:20.768038",
+      "WaterLevel": "3.89"
+    },
+    "-N3FTJErxvcPnug9-XMr": {
+      "Humidity": "86.5",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:39:51.311234",
+      "WaterLevel": "3.95"
+    },
+    "-N3FTQhPl-zVozLCj3B0": {
+      "Humidity": "86.0999984741211",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:40:21.861127",
+      "WaterLevel": "3.9"
+    },
+    "-N3FTY9lfcvh2SsofaiH": {
+      "Humidity": "86.69999694824219",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:40:52.395753",
+      "WaterLevel": "3.96"
+    },
+    "-N3FTebQoOW8sYRFMmON": {
+      "Humidity": "86.5999984741211",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:41:22.958652",
+      "WaterLevel": "3.85"
+    },
+    "-N3FTm3J-F3TdNeMvHbB": {
+      "Humidity": "86.30000305175781",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:41:53.514006",
+      "WaterLevel": "3.85"
+    },
+    "-N3FTtXgT1vNdfwnnsoY": {
+      "Humidity": "87.30000305175781",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:42:24.116601",
+      "WaterLevel": "3.89"
+    },
+    "-N3FU-zBEYiOf-PExZv-": {
+      "Humidity": "87.0",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:42:54.598321",
+      "WaterLevel": "3.94"
+    },
+    "-N3FU7UolC8LexnyPGpG": {
+      "Humidity": "86.80000305175781",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:43:25.319357",
+      "WaterLevel": "3.87"
+    },
+    "-N3FUEtj9lMocJEtuqnK": {
+      "Humidity": "86.9000015258789",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:43:55.706023",
+      "WaterLevel": "4.0"
+    },
+    "-N3FUMPZGp19W1D1azS3": {
+      "Humidity": "87.0",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:44:26.460829",
+      "WaterLevel": "3.97"
+    },
+    "-N3FUToVHjWh2P92BF3m": {
+      "Humidity": "86.9000015258789",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:44:56.798615",
+      "WaterLevel": "3.87"
+    },
+    "-N3FUaH6LUlddyNQHKJY": {
+      "Humidity": "87.30000305175781",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:45:27.357713",
+      "WaterLevel": "3.89"
+    },
+    "-N3FUhjsoWIGkAHRP0BO": {
+      "Humidity": "87.0999984741211",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:45:57.917851",
+      "WaterLevel": "3.95"
+    },
+    "-N3FUpBqm1V6U7VtrUqe": {
+      "Humidity": "86.69999694824219",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:46:28.441751",
+      "WaterLevel": "3.88"
+    },
+    "-N3FUwfNNs-SXTrmGR2Z": {
+      "Humidity": "86.4000015258789",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:46:59.063620",
+      "WaterLevel": "3.95"
+    },
+    "-N3FV373W4gWVzF3s4L5": {
+      "Humidity": "86.4000015258789",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:47:29.583462",
+      "WaterLevel": "3.87"
+    },
+    "-N3FVAa2WI1OuWB2wH-U": {
+      "Humidity": "86.5",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:48:00.100541",
+      "WaterLevel": "3.92"
+    },
+    "-N3FVI1PxvwTrmy51Zq8": {
+      "Humidity": "86.0999984741211",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:48:30.649915",
+      "WaterLevel": "3.97"
+    },
+    "-N3FVPVzVfpLLEEnooIV": {
+      "Humidity": "86.19999694824219",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:49:01.225162",
+      "WaterLevel": "3.96"
+    },
+    "-N3FVWxnKRU8YWsgIMwN": {
+      "Humidity": "86.19999694824219",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:49:31.798908",
+      "WaterLevel": "3.86"
+    },
+    "-N3FVdPb0lnMIqCcxwpM": {
+      "Humidity": "86.4000015258789",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:50:02.330171",
+      "WaterLevel": "3.95"
+    },
+    "-N3FVksJNMjFBycgGwFf": {
+      "Humidity": "86.69999694824219",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:50:32.901784",
+      "WaterLevel": "3.86"
+    },
+    "-N3FVsLkZDaQqqV9NJ5s": {
+      "Humidity": "86.80000305175781",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:51:03.446946",
+      "WaterLevel": "3.94"
+    },
+    "-N3FVzmqLVBsFeYX8WWF": {
+      "Humidity": "87.30000305175781",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-29 23:51:34.009051",
+      "WaterLevel": "5.17"
+    },
+    "-N3FW6FB6ob3XenJbszT": {
+      "Humidity": "87.0999984741211",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:52:04.564600",
+      "WaterLevel": "4.75"
+    },
+    "-N3FWDlmxLEfgBeYQiW9": {
+      "Humidity": "87.4000015258789",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:52:35.336199",
+      "WaterLevel": "5.21"
+    },
+    "-N3FWL9vCqlbTO2MCzYf": {
+      "Humidity": "87.19999694824219",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:53:05.656337",
+      "WaterLevel": "5.27"
+    },
+    "-N3FWSdm8V3L8aolhkUZ": {
+      "Humidity": "87.0999984741211",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:53:36.235138",
+      "WaterLevel": "4.73"
+    },
+    "-N3FW_50agwFlpjLb1MC": {
+      "Humidity": "87.0",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:54:06.791957",
+      "WaterLevel": "5.3"
+    },
+    "-N3FWgYzb39uuMRRszZc": {
+      "Humidity": "86.9000015258789",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:54:37.344697",
+      "WaterLevel": "4.73"
+    },
+    "-N3FWo0zTvLX5a0H0LGP": {
+      "Humidity": "86.69999694824219",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:55:07.928722",
+      "WaterLevel": "5.2"
+    },
+    "-N3FWvUeiQ4taG8vLy2t": {
+      "Humidity": "86.5",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:55:38.485052",
+      "WaterLevel": "4.75"
+    },
+    "-N3FX1x9oSeFLNEZUfBL": {
+      "Humidity": "86.5999984741211",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:56:09.046463",
+      "WaterLevel": "4.75"
+    },
+    "-N3FX9PJ90v5dfea3REa": {
+      "Humidity": "86.4000015258789",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:56:39.602617",
+      "WaterLevel": "4.68"
+    },
+    "-N3FXHUArml9zY1FXEIV": {
+      "Humidity": "86.19999694824219",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:57:12.707653",
+      "WaterLevel": "4.73"
+    },
+    "-N3FXOwW5uWRAzAyIEt_": {
+      "Humidity": "86.0999984741211",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:57:43.249102",
+      "WaterLevel": "4.75"
+    },
+    "-N3FXWPkurntnLm7Xuq6": {
+      "Humidity": "86.69999694824219",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:58:13.823493",
+      "WaterLevel": "4.74"
+    },
+    "-N3FXcrYmB3_idbam7uN": {
+      "Humidity": "86.4000015258789",
+      "Temperature": "31.899999618530273",
+      "Timestamps": "2022-05-29 23:58:44.370116",
+      "WaterLevel": "5.2"
+    },
+    "-N3FXkKzPFq2Kl6U5u-6": {
+      "Humidity": "86.5",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:59:14.954108",
+      "WaterLevel": "4.76"
+    },
+    "-N3FXrn-VbaGtlOfbzgw": {
+      "Humidity": "86.80000305175781",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-29 23:59:45.497885",
+      "WaterLevel": "4.77"
+    },
+    "-N3FXzF1rXCCxXi2-t2T": {
+      "Humidity": "86.19999694824219",
+      "Temperature": "31.799999237060547",
+      "Timestamps": "2022-05-30 00:00:16.060232",
+      "WaterLevel": "4.71"
+    },
+    "-N3FY5hGKFjHC7m6c034": {
+      "Humidity": "86.30000305175781",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-30 00:00:46.587050",
+      "WaterLevel": "4.7"
+    },
+    "-N3FYDAm6CV09HOjfH-c": {
+      "Humidity": "86.5",
+      "Temperature": "31.700000762939453",
+      "Timestamps": "2022-05-30 00:01:17.165668",
+      "WaterLevel": "4.75"
+    },
+    "-N3FYKcRziypPh9igRCy": {
+      "Humidity": "86.80000305175781",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-30 00:01:47.713878",
+      "WaterLevel": "4.73"
+    },
+    "-N3FYS522bv8NF16hEiH": {
+      "Humidity": "86.69999694824219",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-30 00:02:18.281798",
+      "WaterLevel": "4.68"
+    },
+    "-N3FYZYswogYYN5jE4fF": {
+      "Humidity": "87.0999984741211",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-30 00:02:48.850756",
+      "WaterLevel": "4.7"
+    },
+    "-N3FYg0-sOLNOlDJHY87": {
+      "Humidity": "87.0",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-30 00:03:19.400698",
+      "WaterLevel": "4.75"
+    },
+    "-N3FYnTkFjtja_uiJ-Qz": {
+      "Humidity": "87.30000305175781",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-30 00:03:49.952957",
+      "WaterLevel": "4.84"
+    },
+    "-N3FYvYCObmb49Rz8y6f": {
+      "Humidity": "87.5",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-30 00:04:23.035152",
+      "WaterLevel": "4.74"
+    },
+    "-N3FZ2-ao7iN1FPvCfrS": {
+      "Humidity": "87.5",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-30 00:04:53.590574",
+      "WaterLevel": "5.2"
+    },
+    "-N3FZ9UXAB9HUf69ddQP": {
+      "Humidity": "87.5999984741211",
+      "Temperature": "31.600000381469727",
+      "Timestamps": "2022-05-30 00:05:24.248637",
+      "WaterLevel": "4.77"
+    },
+    "-N3FZGvNfFUaD5NCxIID": {
+      "Humidity": "87.5999984741211",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:05:54.679198",
+      "WaterLevel": "5.16"
+    },
+    "-N3FZORgEgtvOBTthskh": {
+      "Humidity": "87.5999984741211",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:06:25.460533",
+      "WaterLevel": "5.21"
+    },
+    "-N3FZVq3TydyeQM54aoN": {
+      "Humidity": "87.5999984741211",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:06:55.779407",
+      "WaterLevel": "4.76"
+    },
+    "-N3FZc_lSq8HMc9snjZq": {
+      "Humidity": "87.9000015258789",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:07:27.508770",
+      "WaterLevel": "5.26"
+    },
+    "-N3FZjl9uq3vu7dZ3KnR": {
+      "Humidity": "87.80000305175781",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:07:56.888862",
+      "WaterLevel": "4.83"
+    },
+    "-N3FZrEdHONJGb3jo1OA": {
+      "Humidity": "87.9000015258789",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:08:27.436116",
+      "WaterLevel": "4.81"
+    },
+    "-N3FZyfVmqHZ3ueykaNu": {
+      "Humidity": "88.0",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:08:57.981628",
+      "WaterLevel": "4.68"
+    },
+    "-N3F_589csINqMgNNMw_": {
+      "Humidity": "88.0",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:09:28.550873",
+      "WaterLevel": "5.18"
+    },
+    "-N3F_CfizadjiR_kpwed": {
+      "Humidity": "88.0",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:09:59.118709",
+      "WaterLevel": "4.76"
+    },
+    "-N3F_K39y_6Je4XVd6c-": {
+      "Humidity": "88.0999984741211",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:10:29.668847",
+      "WaterLevel": "4.77"
+    },
+    "-N3F_RWvEezVTzhfAUDn": {
+      "Humidity": "88.0",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:11:00.239225",
+      "WaterLevel": "4.76"
+    },
+    "-N3F_Z-9f5jO-DOWCMD6": {
+      "Humidity": "88.30000305175781",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:11:30.794830",
+      "WaterLevel": "4.75"
+    },
+    "-N3F_fRnXmlhaCIlFT69": {
+      "Humidity": "88.0",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:12:01.352505",
+      "WaterLevel": "4.79"
+    },
+    "-N3F_muT_RSzqZ9tyE7-": {
+      "Humidity": "88.0",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:12:31.907729",
+      "WaterLevel": "4.75"
+    },
+    "-N3F_uMjt7_io_kC9Shh": {
+      "Humidity": "88.0999984741211",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:13:02.477988",
+      "WaterLevel": "5.21"
+    },
+    "-N3Fa0p78-ahCEEnCOwW": {
+      "Humidity": "88.0",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:13:33.029082",
+      "WaterLevel": "4.76"
+    },
+    "-N3Fa8uO3Y6F8A82rucD": {
+      "Humidity": "88.0999984741211",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:14:06.130011",
+      "WaterLevel": "4.96"
+    },
+    "-N3FaGzlJsRDUa40NMwb": {
+      "Humidity": "88.5999984741211",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:14:39.221212",
+      "WaterLevel": "4.97"
+    },
+    "-N3FaORmEqPsTRDUDgMp": {
+      "Humidity": "88.4000015258789",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:15:09.768696",
+      "WaterLevel": "4.98"
+    },
+    "-N3FaVz9fBxzFr4F7al0": {
+      "Humidity": "88.19999694824219",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:15:40.548293",
+      "WaterLevel": "4.99"
+    },
+    "-N3FacNA5etoRAyqThbR": {
+      "Humidity": "88.0",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:16:10.888538",
+      "WaterLevel": "5.42"
+    },
+    "-N3FajqR6Q_EFWwOe4co": {
+      "Humidity": "88.30000305175781",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:16:41.479553",
+      "WaterLevel": "5.8"
+    },
+    "-N3FarHzbYRGuGsMOQE2": {
+      "Humidity": "88.0999984741211",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:17:12.017967",
+      "WaterLevel": "5.8"
+    },
+    "-N3FaykLg8aS_422lWZE": {
+      "Humidity": "88.30000305175781",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:17:42.573445",
+      "WaterLevel": "4.99"
+    },
+    "-N3Fb5Dcmiz1CtvgyGNB": {
+      "Humidity": "88.4000015258789",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:18:13.157084",
+      "WaterLevel": "4.98"
+    },
+    "-N3FbCfRdKxABJV75LX5": {
+      "Humidity": "88.30000305175781",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:18:43.674882",
+      "WaterLevel": "5.02"
+    },
+    "-N3FbK7sUKd9SKZoqVh_": {
+      "Humidity": "88.4000015258789",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:19:14.246858",
+      "WaterLevel": "4.99"
+    },
+    "-N3FbR_nOThaxv0tdNwM": {
+      "Humidity": "88.0999984741211",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:19:44.787102",
+      "WaterLevel": "5.4"
+    },
+    "-N3FbZ2t7w0BKq3vMsmj": {
+      "Humidity": "88.19999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:20:15.366915",
+      "WaterLevel": "5.31"
+    },
+    "-N3FbfXPxFaL0CmFdSE-": {
+      "Humidity": "87.9000015258789",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:20:45.962898",
+      "WaterLevel": "5.43"
+    },
+    "-N3FbmyzsSM-sCzobjBD": {
+      "Humidity": "87.9000015258789",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:21:16.485314",
+      "WaterLevel": "5.84"
+    },
+    "-N3FbuRmbVpA0GBg-buo": {
+      "Humidity": "87.69999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:21:47.041391",
+      "WaterLevel": "5.38"
+    },
+    "-N3Fc0tznByZTEQqM00V": {
+      "Humidity": "87.69999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:22:17.599840",
+      "WaterLevel": "4.41"
+    },
+    "-N3Fc8NYthFPEf9KMEok": {
+      "Humidity": "87.69999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:22:48.154983",
+      "WaterLevel": "5.0"
+    },
+    "-N3FcFoHYxlOyM2F3BPj": {
+      "Humidity": "87.69999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:23:18.702155",
+      "WaterLevel": "5.08"
+    },
+    "-N3FcNGhIXHg6CItwGpz": {
+      "Humidity": "87.80000305175781",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:23:49.252391",
+      "WaterLevel": "4.95"
+    },
+    "-N3FcUjJObNVGsyWrpqA": {
+      "Humidity": "87.9000015258789",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:24:19.832041",
+      "WaterLevel": "4.93"
+    },
+    "-N3FcbC-LcZo01Nrn3FM": {
+      "Humidity": "87.9000015258789",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:24:50.376517",
+      "WaterLevel": "5.31"
+    },
+    "-N3FcihrI7ctqNYlQQrY": {
+      "Humidity": "88.0",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:25:21.176305",
+      "WaterLevel": "4.97"
+    },
+    "-N3Fcq72xetI7Bg7_nyD": {
+      "Humidity": "88.19999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:25:51.490284",
+      "WaterLevel": "5.76"
+    },
+    "-N3Fcx_5e9a_rUV0A7wO": {
+      "Humidity": "89.0",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:26:22.054046",
+      "WaterLevel": "5.77"
+    },
+    "-N3Fd42VSZTXmO8eRzn-": {
+      "Humidity": "88.19999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:26:52.605319",
+      "WaterLevel": "5.74"
+    },
+    "-N3FdBVHKGaKb2pFdUGi": {
+      "Humidity": "87.9000015258789",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:27:23.179832",
+      "WaterLevel": "5.4"
+    },
+    "-N3FdIy2uQtMiIKHob89": {
+      "Humidity": "88.0",
+      "Temperature": "31.399999618530273",
+      "Timestamps": "2022-05-30 00:27:53.741579",
+      "WaterLevel": "4.97"
+    },
+    "-N3FdQS8iVVGyDedi2NE": {
+      "Humidity": "88.0",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:28:24.424421",
+      "WaterLevel": "5.44"
+    },
+    "-N3FdXsZBtklpHaEh6wV": {
+      "Humidity": "88.5999984741211",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:28:54.838771",
+      "WaterLevel": "4.95"
+    },
+    "-N3FdePYkM_OYS9YIBNv": {
+      "Humidity": "88.19999694824219",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:29:25.660111",
+      "WaterLevel": "5.82"
+    },
+    "-N3FdlnKT0loxXxBUMNU": {
+      "Humidity": "88.4000015258789",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:29:55.946864",
+      "WaterLevel": "4.9"
+    },
+    "-N3FdtHUdJHeRKefwvq4": {
+      "Humidity": "88.30000305175781",
+      "Temperature": "31.5",
+      "Timestamps": "2022-05-30 00:30:26.602398",
+      "WaterLevel": "5.41"
+    },
+    "Hello": {
+      "Name": "Fatin"
+    }
+  }
+}

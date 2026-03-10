@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+.Dashboard {
+    text-align: center;
+    padding-top: 10px;
+  }
+  .Dashboard-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+
+  .Dashboard .h4{
+    text-align: right;
+  }
+  
+  .photo {
+    height: 40px;
+    width: 60px;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .Dashboard-logo {
+      animation: Dashboard-logo-spin infinite 20s linear;
+    }
+  }
+
+  .Dashboard-link {
+    color: #61dafb;
+  }
+  
+  @keyframes Dashboard-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  html {
+    font-family: Arial, Helvetica, sans-serif; 
+    display: inline-block; 
+    text-align: center;
+  }
+  h1 {
+    font-size: 1.8rem; 
+    color: white;
+  }
+  p { 
+    font-size: 1.4rem;
+    padding-top: 0;
+  }
+  body {  
+    margin: 0;
+    height: 100vh;
+  }
+  .content2 { 
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+  }
+  .card-grid2 { 
+    max-width: 1200px; 
+    padding: 1%;
+    display: grid; 
+    grid-gap: 1rem; 
+    grid-template-columns: repeat(auto-fit, minmax(150px, 0.2fr));
+  }
+  .card-grid3 { 
+    max-width: 1200px; 
+    padding-top: 1%;
+    display: grid; 
+    grid-gap: 1rem; 
+    grid-template-columns: repeat(auto-fit, minmax(200px, 0.9fr));
+  }
+  .card-grid4 { 
+    max-width: 1200px; 
+    padding-top: 1%;
+    display: grid; 
+    grid-gap: 1rem; 
+    grid-template-columns: repeat(auto-fit, minmax(300px, 0.9fr));
+  }
+  .card-time{
+    background-color: rgb(233, 235, 248);
+    box-shadow: 2px 2px 12px 1px rgba(235, 235, 235, 0.726);
+    transition: 0.3s;
+    border-radius: 5px; 
+    border: 2px solid rgb(179, 210, 230);
+    height: 120px;
+  }
+  .card-dash{
+    background-color: rgb(233, 235, 248); 
+    box-shadow: 2px 2px 12px 1px rgba(235, 235, 235, 0.726);
+    transition: 0.3s;
+    border-radius: 5px; 
+    border: 2px solid rgb(179, 210, 230);
+    height: 180px;
+  }
+
+  .card-dash-2{
+    background-color: rgb(233, 235, 248); 
+    box-shadow: 2px 2px 12px 1px rgba(235, 235, 235, 0.726);
+    transition: 0.3s;
+    border-radius: 5px; 
+    border: 2px solid rgb(179, 210, 230);
+    height: 300px;
+    width: 670px;
+  
+  }
+  .card-dash-3{
+    background-color: rgb(233, 235, 248); 
+    box-shadow: 2px 2px 12px 1px rgba(235, 235, 235, 0.726);
+    transition: 0.3s;
+    border-radius: 5px; 
+    border: 2px solid rgb(179, 210, 230);
+    height: 180px;
+    width: 330px;
+    margin-left: 35%;
+  }
+  .card-title { 
+    font-size: 17px;
+    color: #161616;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .card-graph { 
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #034078
+  }
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1%;
+  }
+
+  table, th, td {
+    border-collapse: collapse;
+    margin-top: 2%;
+    
+  }
+  th, td {
+    text-align: center;
+    border-bottom:transparent;
+    padding: 2%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  tr:hover {background-color: transparent;}

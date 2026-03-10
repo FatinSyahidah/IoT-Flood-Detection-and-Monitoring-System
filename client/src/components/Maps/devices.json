@@ -1,0 +1,20 @@
+[
+    {
+        "city": "DV_01_SungaiKuantan",
+        "admin": "Sungai Kuantan",
+        "country": "Malaysia",
+        "lat": "3.8083",
+        "lng": "103.3419",
+        "waterLevel" : " ",
+        "link" : "/dashboard"
+    },
+    {
+        "city": "DV_02_SungaiSoi",
+        "admin": "Sungai Soi",
+        "country": "Malaysia",
+        "lat": "3.7338",
+        "lng": "103.3178",
+        "WaterLevel" : " ",
+        "link" : "/dashboardSgSoi"
+    }
+]

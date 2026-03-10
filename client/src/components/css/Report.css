@@ -1,0 +1,48 @@
+.Report {
+  text-align: center;
+  padding-top: 10px;
+}
+.card-report{
+    max-width: 1200px; 
+    padding: 1%;
+    display: grid; 
+    grid-gap: 1rem; 
+    grid-template-columns: repeat(auto-fit, minmax(200px, 0.9fr));
+}
+.card-report-1{
+    background-color: rgb(233, 235, 248); 
+    box-shadow: 2px 2px 12px 1px rgba(235, 235, 235, 0.726);
+    transition: 0.3s;
+    border-radius: 5px; 
+    border: 2px solid rgb(179, 210, 230);
+}
+.card-report-2{
+  background-color: rgb(233, 235, 248); 
+  box-shadow: 2px 2px 12px 1px rgba(235, 235, 235, 0.726);
+  transition: 0.3s;
+  border-radius: 5px; 
+  border: 2px solid rgb(179, 210, 230);
+  height: 350px;
+  width: 270px;
+  margin-left: 200px;
+}
+table, th, td {
+    border-collapse: collapse;
+    margin-top: 2%;
+    justify-content: center;
+    
+  }
+th, td {
+    text-align: center;
+    border-bottom: 1px solid grey;
+    padding: 2%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+tr:hover {
+  background-color: transparent;
+}
+.center {
+    
+    padding-top: 1%;
+}

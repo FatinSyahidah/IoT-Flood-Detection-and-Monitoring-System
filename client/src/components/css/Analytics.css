@@ -1,0 +1,76 @@
+.Analytics{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.h5{
+    text-align: left;
+}
+.card-title-1 { 
+    text-align: left;
+    font-size: 15px;
+    margin-left: 10px;
+    color: #161616;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-title-2 { 
+    text-align: left;
+    font-size: 12px;
+    margin-left: 10px;
+    color: #161616;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-titleG { 
+    text-align: center;
+    font-size: 22px;
+    color: #161616;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-titleG-1 { 
+    text-align: left;
+    font-size: 17px;
+    margin-left: 10px;
+    color: #161616;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.content2 { 
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+  }
+.card-analytics{
+    max-width: 1200px; 
+    padding: 1%;
+    display: grid; 
+    grid-gap: 1rem; 
+    grid-template-columns: repeat(auto-fit, minmax(200px, 0.9fr));
+}
+
+.card-analytics-1{
+    background-color: rgb(233, 235, 248); 
+    box-shadow: 2px 2px 12px 1px rgba(235, 235, 235, 0.726);
+    transition: 0.3s;
+    border-radius: 5px; 
+    border: 2px solid rgb(179, 210, 230);
+    height: 410px;
+    width: 670px;
+}
+
+.card-analytics-2{
+    background-color: rgb(233, 235, 248); 
+    box-shadow: 2px 2px 12px 1px rgba(235, 235, 235, 0.726);
+    transition: 0.3s;
+    border-radius: 5px; 
+    border: 2px solid rgb(179, 210, 230);
+    height: 410px;
+    width: 330px;
+    margin-left: 35%;
+}
+.card-analytics-3{
+    background-color: rgb(233, 235, 248); 
+    box-shadow: 2px 2px 12px 1px rgba(235, 235, 235, 0.726);
+    transition: 0.3s;
+    border-radius: 5px; 
+    border: 2px solid rgb(179, 210, 230);
+    width: 1000px;
+}

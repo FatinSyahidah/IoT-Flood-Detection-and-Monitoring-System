@@ -1,0 +1,100 @@
+@media all and (min-width: 480px) {
+
+    body{
+      background-image: url(/src/components/logo/fl-bg.jpg);
+    }
+    .photo-log {
+      height: 160px;
+      width: 160px;
+    }
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+
+    .g-signin2{
+        width: 100%;
+        margin: auto;
+      }
+      
+      .g-signin2 > div{
+        margin: 0 auto;
+      }
+      h2{
+        text-align: center;
+      }
+      hr{
+        width:100%;
+        padding-right: 30%;
+      }
+      .content { 
+        padding-left: 25%;
+        padding-right: 25%;
+        padding-top: 1%;
+      }
+      .card-login { 
+        max-width: 1200px; 
+        margin: 0 auto; 
+        display: grid; 
+        grid-gap: 2rem; 
+        grid-template-columns: repeat(auto-fit, minmax(150px, 0.7fr));
+        padding: 50px;
+        align-items: center;
+        justify-content: center;
+      }
+      .card-grid2 { 
+        max-width: 1200px; 
+        padding: 1%;
+        display: grid; 
+        grid-gap: 1rem; 
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      }
+      .card-login-1 { 
+        background-color:  transparent; 
+        box-shadow: transparent;
+        transition: 0.3s;
+        border-radius: 5px; 
+        border: transparent;
+        padding: 30px;
+      }
+
+      .Form{
+        border-radius: 50px;
+      }
+
+      .g-btn{
+        margin-left: 25%;
+      }
+  }
+  .contentL { 
+    background-image: 
+    url(
+      "https://apicms.thestar.com.my/uploads/images/2021/12/18/1411899.jpg");
+    background-size: "100%";
+    background-repeat:no-repeat; 
+  }
+  .card-titleLogin { 
+    text-align: center;
+    font-size: 26px;
+    font-weight: 500;
+    color: white;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-signup { 
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+  color: rgb(255, 255, 255);
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  .Login {
+    background-image: 
+    url(
+  "https://media.geeksforgeeks.org/wp-content/uploads/rk.png");
+    background-size: "contain";
+    
+    background-repeat:no-repeat; 
+  }
+  
