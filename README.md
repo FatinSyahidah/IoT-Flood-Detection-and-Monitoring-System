@@ -72,8 +72,7 @@ The application layer provides the user interface and alert system.
 
 ## **System Data Flow**
 
-
-<img width="491" height="877" alt="Capstone-Page-9" src="https://github.com/user-attachments/assets/ad96e827-704d-4aa6-8ec6-673fbc0a202c" />
+<img width="478" height="831" alt="image" src="https://github.com/user-attachments/assets/5b6e8ba1-6ccf-483b-b6b3-44a686bf6dcb" />
 
 ## **Technologies Used**
 
