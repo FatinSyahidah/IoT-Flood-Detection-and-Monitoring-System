@@ -123,6 +123,20 @@ Device Location Monitoring
 
 Displays the locations of deployed monitoring devices using an interactive map interface. Each device marker shows the device ID and the current water level reading for that location.
 
+## **Prediction Model (ANN)**
+
+**ANN API**
+
+<img width="536" height="215" alt="image" src="https://github.com/user-attachments/assets/173b7d64-5f19-4596-b3d7-188611b49442" />
+
+**Model Training**
+
+<img width="623" height="118" alt="image" src="https://github.com/user-attachments/assets/7caeff6b-10c8-482c-a774-0d92e0510076" />
+
+**Prediction Output**
+
+<img width="506" height="167" alt="image" src="https://github.com/user-attachments/assets/a74bf76a-4bbb-4bfb-b1bd-75e75f425595" />
+
 ## **Project Note**
 This repository contains selected components and documentation of the final year project. The complete system requires specific IoT hardware setup and configuration.
 
