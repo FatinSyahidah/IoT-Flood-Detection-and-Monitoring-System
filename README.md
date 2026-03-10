@@ -74,6 +74,32 @@ The application layer provides the user interface and alert system.
 
 <img width="478" height="831" alt="image" src="https://github.com/user-attachments/assets/5b6e8ba1-6ccf-483b-b6b3-44a686bf6dcb" />
 
+## **How the System Works**
+
+1. Environmental sensors measure water level, temperature, and humidity.
+2. NodeMCU ESP32 sends sensor readings using MQTT protocol.
+3. A subscriber service receives the data and stores it in Firebase.
+4. The React dashboard retrieves the data and visualizes it in real time.
+5. A prediction model built with NeuralProphet forecasts future water levels.
+6. Telegram Bot API sends alerts when water levels exceed danger thresholds.
+
+## **Project Structure**
+IoT-Flood-Detection-and-Monitoring-System
+│
+├── client
+│   ├── src
+│   ├── public
+│   └── package.json
+│
+├── prediction-model
+│   ├── server.py
+│   └── SgKuantan.csv
+│
+├── iot-device
+│   └── ESP32_Publisher.ino
+│
+└── README.md
+
 ## **Technologies Used**
 
 **Hardware**
@@ -98,7 +124,7 @@ The application layer provides the user interface and alert system.
 5. Telegram notification alert system
 6. Device location monitoring
 
-## **Screenshots**
+## **System Demo**
 
 **Dashboard**
 
